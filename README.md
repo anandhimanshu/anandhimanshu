@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development, Python, C++, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="/blank" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio: [Portfolio](https://portfoliobyanand.vercel.app/)
 
 - 😄 Pronouns: He/His
 
