@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development, Python, C++, MySQL**
 
-- 👨‍💻 Check out my personal portfolio: <a href="https://portfoliobyanand.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+- 👨‍💻 Check out my personal portfolio: <a href="https://anandhimanshu.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 
 
